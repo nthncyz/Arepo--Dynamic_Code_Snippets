@@ -1,8 +1,8 @@
 # Arepo: Dynamic_Code_Snippets
- Arepo is a collection of practical code snippets crafted from real-world experience. This repository features examples in Java and C++ that tackle common challenges—from activating a game’s magic shield at the right moment to issuing weather advisories, monitoring noise levels, and calculating bonus points. Each snippet is well-commented and includes clear usage examples, making it easy to integrate these solutions into your projects. Whether you're refining gameplay mechanics or developing responsive systems, Arepo offers forward-thinking code that can help streamline your development process. Dive in and explore these samples to inspire your next project
+ Arepo is a collection of practical code snippets crafted from real-world experience. This repository features examples in Java and C++ that tackle common challenges—from activating a game’s magic shield at the right moment to issuing weather advisories, monitoring noise levels, and calculating bonus points. Each snippet is well-commented and includes clear usage examples, making it easy to integrate these solutions into your projects. Whether you're refining gameplay mechanics or developing responsive systems, Arepo offerscode that can help streamline your development process.
 
 
-**Author:** NATHANIEL T. (GITHUB.COM/NTHNCYZ)
+**Author:** [NATHANIEL T.](GITHUB.COM/NTHNCYZ)
 
 This repository contains several code snippets demonstrating conditional logic and basic programming concepts. Each snippet is designed to be easily integrated into larger projects.
 
